@@ -23,7 +23,7 @@ URL for service is given below:
 This service calculates the count of each random object in file generated using service 1. It returns a JSON object, showing count of each object in file. This json object canbe later used in the application.  
 URL of service is given below:
  
- http://127.0.0.1:5000/file_stats
+	http://127.0.0.1:5000/file_stats
 
 
 
